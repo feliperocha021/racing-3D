@@ -35,9 +35,3 @@ Bem-vindo ao **Racing-3D**, um emocionante jogo de corrida em 3D onde você deve
 4. **Reiniciar o Jogo**:
    - Pressione a tecla 'R' para reiniciar o jogo após o "Game Over".
    - O jogo será reiniciado com a pontuação zerada e os obstáculos reposicionados.
-
-**Dicas:**
-- Mantenha-se atento aos obstáculos e planeje seus movimentos com antecedência.
-- Tente se manter no centro da pista para ter mais opções de desvio.
-
-Divirta-se e boa sorte! 🚗💨
